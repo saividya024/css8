@@ -1,0 +1,15 @@
+.parent{
+    display: grid;
+    grid-template-columns: 
+    grid-template-rows: 
+    gap: 10px;
+}
+.child{
+    background-color: #f0a500;
+    margin-bottom: 20px;
+}
+
+.one{
+    background-color: #f0a500;
+    width: 100%;
+}
